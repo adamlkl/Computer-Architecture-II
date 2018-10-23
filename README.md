@@ -1,5 +1,5 @@
-"# Computer Architecture-II" 
-<br />Topics in CS3021-Computer Architecture:
+"# **Computer Architecture-II**" 
+<br />``Topics in CS3021-Computer Architecture:``
 
 | Assignment    | Chapter              | Programming Language           | 
 |:-------------:|:---------------------|:-------------------------------| 
