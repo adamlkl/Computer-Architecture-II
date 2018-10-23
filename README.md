@@ -1,11 +1,11 @@
 "# Computer Architecture-II" 
-Colons can be used to align columns.
+Topics in CS3021-Computer Architecture:
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Week | Chapter             | Programming Language           | 
+| ---- |:-------------------:|:------------------------------:| 
+|  3   | IA32                | IA32                           | 
+|  4   | x64                 | x64                            |  
+|  5   | RISC and Pipelines  | RISC, C++                      |   
 
 There must be at least 3 dashes separating each header cell.
 The outer pipes (|) are optional, and you don't need to make the 
